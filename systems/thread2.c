@@ -1,5 +1,6 @@
 /*
  * thread2.c - N threads increment shared counter, with mutual exclusion.
+ * 31 May 2020
  */
 
 #include <stdio.h>

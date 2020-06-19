@@ -1,5 +1,6 @@
 /*
  * write.c - demo for writing to a file
+ * 31 May 2020
  */
 
 #include <sys/types.h>
